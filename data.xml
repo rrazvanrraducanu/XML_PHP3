@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<date>
+    <id>1</id>
+    <nume>trandafiri</nume>
+    <culoare>albe</culoare>
+    <marime>medii</marime>
+    <pret>20</pret>
+     <view>view.php?id=1</view>
+    <edit>edit.php?id=1</edit>
+    <delete>delete.php?id=1</delete>
+    <confirm>return confirm('Are you sure you want to delete this item?')</confirm>
+    <back>index.php</back>
+</date>
+<date>
+    <id>3</id>
+    <nume>albastrele</nume>
+    <culoare>albe</culoare>
+    <marime>medii</marime>
+    <pret>21</pret>
+     <view>view.php?id=3</view>
+    <edit>edit.php?id=3</edit>
+    <delete>delete.php?id=3</delete>
+    <confirm>return confirm('Are you sure you want to delete this item?')</confirm>
+    <back>index.php</back>
+</date>
+<date><id>2</id><nume>22</nume><culoare>22</culoare><marime>22</marime><pret>22</pret><view>view.php?id=2</view><edit>edit.php?id=2</edit><delete>delete.php?id=2</delete><confirm>return confirm("Are you sure you want to delete this item?")</confirm><back>index.php</back></date></root>
